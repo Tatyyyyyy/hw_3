@@ -6,4 +6,4 @@ for(let i = 0; i < y; i++) {
     z *= x ;
 }
 
-alert(z);
+alert('Результат = ' + z);
